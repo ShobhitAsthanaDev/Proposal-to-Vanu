@@ -40,7 +40,7 @@ const febHolidays = [
     "I'm binary in love; you're the one and only '1 in my life",
     "Thanks to God for helping us,ki hum logo ko milaya🙏",
     "You're the love of my life,",
-    "I Love You So much❤"
+    "I Like You So much❤"
   ];
   const ulEl = document.querySelector("ul");
   const d = new Date();
